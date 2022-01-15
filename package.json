@@ -21,7 +21,7 @@
   "homepage": "https://github.com/Tikam02/knote#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "marked": "^0.7.0",
+    "marked": "^4.0.10",
     "minio": "^7.0.12",
     "mongodb": "^3.3.2",
     "multer": "^1.4.2",
